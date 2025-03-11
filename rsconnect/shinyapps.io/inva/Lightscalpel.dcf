@@ -5,7 +5,7 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14098405
-bundleId: 9855747
+bundleId: 9922586
 url: https://inva.shinyapps.io/Lightscalpel/
 version: 1
 asMultiple: FALSE
